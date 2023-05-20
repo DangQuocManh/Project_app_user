@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:background="@drawable/bg_item_cart"
+        android:id="@+id/rlt_top">
+
+        <ImageView
+            android:id="@+id/imv_back_news_detail_favorite"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/baseline_arrow_back_ios_black_18dp" />
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="8dp"
+            android:layout_toRightOf="@id/imv_back_news_detail_favorite"
+            android:fontFamily="@font/poppins_regular"
+            android:text="@string/read_news"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="198dp"
+        android:id="@+id/cv_news"
+        android:layout_marginTop="18dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:elevation="16dp"
+        app:cardElevation="16dp"
+        app:cardCornerRadius="12.8dp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/news_phone"
+            android:id="@+id/imv_image_news_detail_favorite"/>
+    </androidx.cardview.widget.CardView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_title_detail_news_favorite"
+        android:text="@string/title_news"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:fontFamily="@font/poppins_regular"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="@drawable/bg_news1"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp">
+        <!--        <TextView-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:text="@string/time_news"-->
+        <!--            android:layout_marginLeft="16dp"-->
+        <!--            android:layout_marginRight="16dp"-->
+        <!--            android:textSize="14sp"/>-->
+        <!--        <ImageView-->
+        <!--            android:layout_width="14dp"-->
+        <!--            android:layout_height="14dp"-->
+        <!--            android:background="@drawable/news_phone"-->
+        <!--            android:layout_alignParentRight="true"-->
+        <!--            android:layout_centerInParent="true"/>-->
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="128dp"
+            android:layout_height="match_parent"
+            android:id="@+id/ln_left"
+            android:background="@drawable/bg_news"
+            android:elevation="4dp"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="13.8dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="4dp"
+            android:layout_marginBottom="4dp">
+            <LinearLayout
+                android:layout_width="128dp"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center">
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="29.9dp"
+                    android:layout_height="29.9dp"
+                    android:src="@drawable/avatar1"
+                    android:id="@+id/civ_avatar_author_favorite"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt_name_author_favorite"
+                    android:text="John Wick"
+                    android:layout_marginLeft="2dp"
+                    android:textColor="@color/black"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="128dp"
+            android:layout_height="match_parent"
+            android:id="@+id/ln_center"
+            android:background="@drawable/bg_news"
+            android:elevation="4dp"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="13.8dp"
+            android:layout_marginStart="63dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="4dp"
+            android:layout_marginBottom="4dp"
+            android:layout_toRightOf="@id/ln_left">
+            <LinearLayout
+                android:layout_width="128dp"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center">
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="29.9dp"
+                    android:layout_height="29.9dp"
+                    android:src="@drawable/icon_oclock"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt_time_create_news_favorite"
+                    android:text="08/04/2023"
+                    android:layout_marginLeft="2dp"
+                    android:textColor="@color/black"/>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="15.8dp"
+        android:layout_marginLeft="15.8dp"
+        android:layout_marginTop="16.8dp"
+        android:layout_marginBottom="15.8dp"
+        android:layout_gravity="center">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/txt_content_news_detail_favorite"
+            android:layout_gravity="fill|center"
+            android:text="@string/content"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_regular"/>
+    </ScrollView>
+</LinearLayout>

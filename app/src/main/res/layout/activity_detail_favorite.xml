@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.DetailProductActivity">
+
+    <FrameLayout
+        android:id="@+id/fr_detail_favorite"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:layout_alignBottom="@id/fr_detail_favorite"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_marginBottom="8dp">
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="128dp"
+            android:layout_height="38dp"
+            android:id="@+id/btn_add_cart"
+            android:layout_marginLeft="18dp"
+            android:background="@drawable/bg_button"
+            android:text="@string/add_to_cart"/>
+    </LinearLayout>
+</RelativeLayout>

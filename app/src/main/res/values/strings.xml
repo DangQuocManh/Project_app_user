@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="title">Tiêu đề</string>
+    <string name="image">Ảnh</string>
+    <string name="content_new">Nội dung</string>
+    <string name="list_order">Danh sách đơn hàng</string>
+    <string name="total_money">Tổng tiền</string>
+    <string name="status">Status</string>
+    <string name="status1">10,000,000 Đ</string>
+    <string name="list_post_favorite">Danh sách bài đăng yêu thích</string>
+    <string name="main_page">Trang chủ</string>
+    <string name="category">Danh mục</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="news">Bài đăng</string>
+    <string name="news_favorite">Bài đăng yêu thích</string>
+    <string name="register_user">Đăng kí để tiếp tục</string>
+    <string name="detail_order_ac">Chi tiết đơn hàng</string>
+    <string name="new_post">Bài đăng</string>
+    <string name="read_news">Đọc bài đăng</string>
+    <string name="account">Tài khoản</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_user">Chào mừng</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="search1">Tìm kiếm</string>
+    <string name="product">Sản phẩm nổi bật</string>
+    <string name="phone">Điện thoại</string>
+    <string name="laptop">Laptop</string>
+    <string name="tablet">Tablet</string>
+    <string name="headphone">Tai nghe</string>
+    <string name="screen">Màn hình</string>
+    <string name="microphone">Microphone</string>
+    <string name="add_to_cart">Thêm giỏ hàng</string>
+    <string name="comment">Bình luận</string>
+    <string name="type_comment">Nhập bình luận</string>
+    <string name="save_product">Yêu thích</string>
+    <string name="order">Đặt hàng</string>
+    <string name="pay">Thanh toán</string>
+    <string name="zalo_pay">Thanh toán qua ZaloPay</string>
+    <string name="type_product">Loại sản phẩm</string>
+    <string name="title_news">Apple introduces iPhone 12 and iPhone 12 mini in a stunning new purple</string>
+    <string name="time_news">20/04/2023</string>
+    <string name="content_item">Right now there is lots of hype about new smartphones, no question about it, but how will things look in 15 years? Will Apple, Samsung and Co. still develop new smartphones? No: the smartphone as we know it today is dying out.</string>
+    <string name="content">A Breakthrough 5G Experience on iPhone
+                           iPhone 12 and iPhone 12 mini deliver an advanced 5G experience on a global scale, engineered with a seamless integration of world-class hardware and world-class software. 5G on iPhone boasts improved speeds for faster downloads and uploads, higher quality video streaming, more responsive gaming, real-time interactivity in apps, FaceTime in high definition, and more. Customers will also be able to enjoy a secure, fast connection, reducing the need to connect to public Wi-Fi hotspots.
+                           Featuring the most 5G bands on any smartphone, iPhone 12 models offer the broadest 5G coverage worldwide.2 Models in the US support millimetre wave, the higher frequency version of 5G, allowing iPhone 12 to reach speeds up to 4Gbps, even in densely populated areas. iPhone 12 models also feature Smart Data mode, which extends battery life by intelligently assessing 5G needs and balancing data usage, speed, and power in real time.
+    A Breakthrough 5G Experience on iPhone
+                           iPhone 12 and iPhone 12 mini deliver an advanced 5G experience on a global scale, engineered with a seamless integration of world-class hardware and world-class software. 5G on iPhone boasts improved speeds for faster downloads and uploads, higher quality video streaming, more responsive gaming, real-time interactivity in apps, FaceTime in high definition, and more. Customers will also be able to enjoy a secure, fast connection, reducing the need to connect to public Wi-Fi hotspots.
+                           Featuring the most 5G bands on any smartphone, iPhone 12 models offer the broadest 5G coverage worldwide.2 Models in the US support millimetre wave, the higher frequency version of 5G, allowing iPhone 12 to reach speeds up to 4Gbps, even in densely populated areas.
+    A Breakthrough 5G Experience on iPhone
+                           iPhone 12 and iPhone 12 mini deliver an advanced 5G experience on a global scale, engineered with a seamless integration of world-class hardware and world-class software. 5G on iPhone boasts improved speeds for faster downloads and uploads, higher quality video streaming, more responsive gaming, real-time interactivity in apps, FaceTime in high definition, and more. Customers will also be able to enjoy a secure, fast connection, reducing the need to connect to public Wi-Fi hotspots.
+                           Featuring the most 5G bands on any smartphone, iPhone 12 models offer the broadest 5G coverage worldwide.2 Models in the US support millimetre wave, the higher frequency version of 5G, allowing iPhone 12 to reach speeds up to 4Gbps, even in densely populated areas.
+    A Breakthrough 5G Experience on iPhone
+                           iPhone 12 and iPhone 12 mini deliver an advanced 5G experience on a global scale, engineered with a seamless integration of world-class hardware and world-class software. 5G on iPhone boasts improved speeds for faster downloads and uploads, higher quality video streaming, more responsive gaming, real-time interactivity in apps, FaceTime in high definition, and more. Customers will also be able to enjoy a secure, fast connection, reducing the need to connect to public Wi-Fi hotspots.
+                           Featuring the most 5G bands on any smartphone, iPhone 12 models offer the broadest 5G coverage worldwide.2 Models in the US support millimetre wave, the higher frequency version of 5G, allowing iPhone 12 to reach speeds up to 4Gbps, even in densely populated areas.
+    A Breakthrough 5G Experience on iPhone
+                           iPhone 12 and iPhone 12 mini deliver an advanced 5G experience on a global scale, engineered with a seamless integration of world-class hardware and world-class software. 5G on iPhone boasts improved speeds for faster downloads and uploads, higher quality video streaming, more responsive gaming, real-time interactivity in apps, FaceTime in high definition, and more. Customers will also be able to enjoy a secure, fast connection, reducing the need to connect to public Wi-Fi hotspots.
+                           Featuring the most 5G bands on any smartphone, iPhone 12 models offer the broadest 5G coverage worldwide.2 Models in the US support millimetre wave, the higher frequency version of 5G, allowing iPhone 12 to reach speeds up to 4Gbps, even in densely populated areas.
+    A Breakthrough 5G Experience on iPhone
+                           iPhone 12 and iPhone 12 mini deliver an advanced 5G experience on a global scale, engineered with a seamless integration of world-class hardware and world-class software. 5G on iPhone boasts improved speeds for faster downloads and uploads, higher quality video streaming, more responsive gaming, real-time interactivity in apps, FaceTime in high definition, and more. Customers will also be able to enjoy a secure, fast connection, reducing the need to connect to public Wi-Fi hotspots.
+                           Featuring the most 5G bands on any smartphone, iPhone 12 models offer the broadest 5G coverage worldwide.2 Models in the US support millimetre wave, the higher frequency version of 5G, allowing iPhone 12 to reach speeds up to 4Gbps, even in densely populated areas.</string>
+    <string name="title_item">Why the end of the smartphone is imminent ?</string>
+
+    <string name="name">Họ và tên:</string>
+    <string name="email">Email:</string>
+    <string name="phone_order">Số điện thoại:</string>
+    <string name="detail_order">Chi tiết đơn hàng:</string>
+    <string name="address">Địa chỉ:</string>
+    <string name="total_price">Tổng giá:</string>
+    <string name="categories">Danh mục</string>
+
+    <string name="register">REGISTER</string>
+    <string name="register1">Đăng kí</string>
+    <string name="cancel">Hủy</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+
+    <string-array name="array_type_product">
+        <item>Chọn loại sản phẩm</item>
+        <item>Điện thoại</item>
+        <item>Laptop</item>
+        <item>Tablet</item>
+        <item>Tai nghe</item>
+        <item>Màn hình</item>
+        <item>Microphone</item>
+    </string-array>
+
+    <string-array name="array_brand_phone">
+        <item>Chọn hãng sản phẩm</item>
+        <item>IPhone</item>
+        <item>Samsung</item>
+        <item>Oppo</item>
+        <item>Xiaomi</item>
+        <item>Asus</item>
+        <item>Vivo</item>
+        <item>Realme</item>
+    </string-array>
+
+    <string-array name="array_brand_laptop">
+        <item>Chọn hãng sản phẩm</item>
+        <item>Mac</item>
+        <item>Dell</item>
+        <item>Asus</item>
+        <item>Acer</item>
+        <item>Lenovo</item>
+        <item>HP</item>
+    </string-array>
+
+    <string-array name="array_brand_tablet">
+        <item>Chọn hãng sản phẩm</item>
+        <item>IPad</item>
+        <item>Samsung</item>
+        <item>Xiaomi</item>
+        <item>Huawei</item>
+        <item>Lenovo</item>
+    </string-array>
+
+    <string-array name="array_brand_headphone">
+        <item>Chọn hãng sản phẩm</item>
+        <item>Apple</item>
+        <item>Xiaomi</item>
+        <item>Samsung</item>
+        <item>Sony</item>
+        <item>Huawei</item>
+    </string-array>
+
+    <string-array name="array_brand_screen">
+        <item>Chọn hãng sản phẩm</item>
+        <item>Acer</item>
+        <item>Asus</item>
+        <item>Dell</item>
+        <item>Samsung</item>
+    </string-array>
+
+    <string-array name="array_brand_microphone">
+        <item>Chọn hãng sản phẩm</item>
+        <item>Kingstom</item>
+        <item>Krom</item>
+        <item>Razer</item>
+        <item>Salar</item>
+    </string-array>
+
+    <string-array name="array_price_product">
+        <item>Chọn giá</item>
+        <item>Dưới 1 triệu</item>
+        <item>Từ 1 - 5 triệu</item>
+        <item>Từ 5 - 10 triệu</item>
+        <item>Từ 10 - 20 triệu</item>
+        <item>Trên 20 triệu</item>
+    </string-array>
+    <string name="title_activity_detail_order">DetailOrderActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
